@@ -1,3 +1,9 @@
+// useEffect replaces 3 following methods (of Class based Components):
+// componentDidMount
+// componentDidUpdate
+// componentWillUnmount
+
+
 import React, { useState, userEffect } from "react";
 
 function App() {
